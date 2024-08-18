@@ -1,12 +1,53 @@
 {
-  "posts": [
+  "home": [
     {
       "id": "1",
-      "title": "a title",
-      "views": 100,
-      "img": "/img/asset 0.png"
+      "title": "Lamborghini",
+      "price": 750,
+      "img": "img/asset 12.jpeg"
     },
-    { "id": "2", "title": "another title", "views": 200 }
+    {
+      "id": "2",
+      "title": "Martin Dbx",
+      "price": 500,
+      "img": "img/asset 13.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Mistral W16",
+      "price": 800,
+      "img": "img/asset 14.jpeg"
+    },
+    {
+      "id": "4",
+      "title": "Bentayga",
+      "price": 600,
+      "img": "img/asset15.jpeg"
+    },
+    {
+      "id": "5",
+      "title": "Royce",
+      "price": 900,
+      "img": "img/asset 8.jpeg"
+    },
+    {
+      "id": "6",
+      "title": "Contintental",
+      "price": 500,
+      "img": "img/asset 9.jpeg"
+    },
+    {
+      "id": "7",
+      "title": "Audi RS7",
+      "price": 450,
+      "img": "img/asset 10.jpeg"
+    },
+    {
+      "id": "8",
+      "title": "Audi Q8",
+      "price": 450,
+      "img": "img/asset 11.jpeg"
+    }
   ],
 
   "comments": [
