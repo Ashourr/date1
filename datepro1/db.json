@@ -50,12 +50,81 @@
     }
   ],
 
-  "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  "services": [
+    {
+      "id": "1",
+      "numbar": "01",
+      "img": "img/asset 5.jpeg",
+      "text": "Corporate Car Rental"
+    },
+    {
+      "id": "2",
+      "numbar": "02",
+      "img": "img/asset 7.jpeg",
+      "text": "Car Rental with Driver"
+    },
+    {
+      "id": "3",
+      "numbar": "03",
+      "img": "img/asset 6.jpeg",
+      "text": "Airport Transfer"
+    },
+    {
+      "id": "4",
+      "numbar": "04",
+      "img": "img/asset 2.jpeg",
+      "text": "Fleet Leasing"
+    },
+    {
+      "id": "5",
+      "numbar": "05",
+      "img": "img/asset 3.jpeg",
+      "text": "VIP Transfer"
+    },
+    {
+      "id": "6",
+      "numbar": "06",
+      "img": "img/asset 4.jpeg",
+      "text": "Private Transfer"
+    }
   ],
 
-  "profile": {
-    "name": "typicode"
-  }
+  "News": [
+    {
+      "id": "1",
+      "numbar": "29",
+      "img": "img/asset 26.jpeg",
+      "text": "Documents required for car rental"
+    },
+    {
+      "id": "2",
+      "numbar": "27",
+      "img": "img/asset 29.jpeg",
+      "text": "Rental cars how to check driving fines?"
+    },
+    {
+      "id": "3",
+      "numbar": "25",
+      "img": "img/asset 30.jpeg",
+      "text": "How to Rent a Car at the Airport Terminal?"
+    },
+    {
+      "id": "4",
+      "numbar": "23",
+      "img": "img/asset 25.jpeg",
+      "text": "How to Rent a Car at the Airport Terminal?"
+    },
+    {
+      "id": "5",
+      "numbar": "22",
+      "img": "img/asset 26.jpeg",
+      "text": "Penalties for violating the rules in rental cars"
+    },
+    {
+      "id": "6",
+      "numbar": "20",
+      "img": "img/asset 27.jpeg",
+      "text": "How to check a car before renting?"
+    }
+  ]
 }
